@@ -269,4 +269,3 @@ Technical Skills:
   <p><em>Building the future, one line of code at a time</em></p>
   <p><strong>Open to new opportunities and collaborations</strong></p>
 </div>
-```
