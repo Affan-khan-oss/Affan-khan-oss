@@ -25,10 +25,9 @@ I'm **Affan Khan**, a passionate Full Stack Developer with expertise in building
 
 ### 🎯 Professional Focus
 - 🔭 Currently working on **Enterprise Web Applications**
-- 🌱 Expanding expertise in **AI/ML Integration** and **Cloud Architecture**
-- 👯 Open to collaborating on **Open Source Projects** and **Innovative Solutions**
+- 🌱 Expanding expertise in **AI/ML Integration**
 - 💼 Available for **Freelance Projects** and **Technical Consulting**
-- 📫 Reach me at: **affankhan@example.com**
+- 📫 Reach me at: **affankhan9290@gmail.com**
 
 ### 💡 Core Values
 - **Quality Code**: Writing maintainable, scalable solutions
@@ -115,33 +114,6 @@ I'm **Affan Khan**, a passionate Full Stack Developer with expertise in building
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60">
-</div>
-
-<div align="center">
-  <a href="https://github.com/affankhan/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=affankhan&repo=project1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/affankhan/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=affankhan&repo=project2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/affankhan/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=affankhan&repo=project3&theme=tokyonight&hide_border=true" alt="Featured Project 3" />
-  </a>
-  <a href="https://github.com/affankhan/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=affankhan&repo=project4&theme=tokyonight&hide_border=true" alt="Featured Project 4" />
-  </a>
-</div>
-
----
-
 ## 🎯 Current Objectives
 
 <div align="center">
@@ -261,15 +233,6 @@ console.log("Committed to continuous growth and excellence");
 - Contributing to open source projects and communities
 
 ---
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/affankhan/affankhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📊 Development Metrics
 
 <div align="center">
