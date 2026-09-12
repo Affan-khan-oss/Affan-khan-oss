@@ -240,7 +240,7 @@ open_to:
 
 <div align="center">
 
-<i>"Code is the closest thing we have to magic — write it with intention."</i>
+<i>"Code is the closest thing we have to magic write it with intention."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
