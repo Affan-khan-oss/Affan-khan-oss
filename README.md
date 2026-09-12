@@ -36,8 +36,6 @@
 
 <br/>
 
----
-
 ## 🟣 About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408adb2358c1.gif">
